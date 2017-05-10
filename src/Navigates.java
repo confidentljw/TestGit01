@@ -9,7 +9,7 @@ public class Navigates {
     }
 
     private Navigates() {
-
+        System.out.println("Navigate 导航");
 
     }
 }
