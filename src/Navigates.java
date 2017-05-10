@@ -10,7 +10,7 @@ public class Navigates {
 
     private Navigates() {
         System.out.println("Navigate 导航");
-        System.out.println("Code 代码");
         System.out.println("Analyze 分析");
+        System.out.println("Code 代码");
     }
 }
