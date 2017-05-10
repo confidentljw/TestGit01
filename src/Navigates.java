@@ -11,5 +11,6 @@ public class Navigates {
     private Navigates() {
         System.out.println("Navigate 导航");
 
+        System.out.println("Analyze 分析");
     }
 }
